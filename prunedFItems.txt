@@ -1,0 +1,56 @@
+yogurt >>> 1232
+
+tropical fruit >>> 952
+
+pip fruit >>> 677
+
+whole milk >>> 2172
+
+other vegetables >>> 1691
+
+rolls/buns >>> 1524
+
+bottled beer >>> 575
+
+bottled water >>> 944
+
+citrus fruit >>> 744
+
+soda >>> 1366
+
+newspapers >>> 674
+
+fruit/vegetable juice >>> 643
+
+root vegetables >>> 988
+
+canned beer >>> 429
+
+sausage >>> 844
+
+shopping bags >>> 839
+
+brown bread >>> 570
+
+whipped/sour cream >>> 632
+
+pastry >>> 770
+
+('tropical fruit', 'whole milk') >>> 416
+
+('other vegetables', 'rolls/buns') >>> 419
+
+('root vegetables', 'whole milk') >>> 481
+
+('other vegetables', 'yogurt') >>> 427
+
+('rolls/buns', 'whole milk') >>> 557
+
+('other vegetables', 'root vegetables') >>> 466
+
+('soda', 'whole milk') >>> 394
+
+('whole milk', 'yogurt') >>> 551
+
+('other vegetables', 'whole milk') >>> 736
+

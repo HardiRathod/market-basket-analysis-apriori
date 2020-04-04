@@ -1,0 +1,8 @@
+['tropical fruit'] (952) -> ['whole milk'] (2172) [0.4369747899159664]
+['root vegetables'] (988) -> ['whole milk'] (2172) [0.4868421052631579]
+['yogurt'] (1232) -> ['other vegetables'] (1691) [0.3465909090909091]
+['rolls/buns'] (1524) -> ['whole milk'] (2172) [0.36548556430446194]
+['root vegetables'] (988) -> ['other vegetables'] (1691) [0.4716599190283401]
+['yogurt'] (1232) -> ['whole milk'] (2172) [0.4472402597402597]
+['other vegetables'] (1691) -> ['whole milk'] (2172) [0.43524541691306917]
+['whole milk'] (2172) -> ['other vegetables'] (1691) [0.3388581952117864]
